@@ -20,10 +20,4 @@ This project is a RESTful API built using PHP, which implements JWT (JSON Web To
 
 Follow these steps to set up the project on your local machine.
 
-### Step 1: Clone the Repository
 
-Start by cloning this repository to your local environment.
-
-```bash
-git clone https://github.com/yourusername/php-jwt-api.git
-cd php-jwt-api
