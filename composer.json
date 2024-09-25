@@ -1,0 +1,17 @@
+{
+    "name": "ttt/auth-jwt",
+    "autoload": {
+        "psr-4": {
+            "Ttt\\AuthJwt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fatihkoc",
+            "email": "fathkccc@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.10"
+    }
+}
